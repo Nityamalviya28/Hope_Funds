@@ -15,11 +15,6 @@ A responsive donation platform built to support underprivileged children by enab
 - **Libraries**: jQuery, Font Awesome, AOS.js, SweetAlert
 - **Payment Gateway**: Razorpay API
 
-## 📸 Screenshots
-<!-- Add screenshots -->
-![Home Page](images/screenshot1.png)
-![Donate Modal](images/screenshot2.png)
-
 ## 📂 How to Run Locally
 1. Clone the repository  
    ```bash
