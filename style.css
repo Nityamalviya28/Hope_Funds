@@ -106,7 +106,7 @@ html {
 /****** TITLE  SECTION ******/
 #title {
     /*background-color: gray;*/
-    background: #ff6e7f;
+    background: #a51d2d;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #4682B4, #ff6e7f);
     /* Chrome 10-25, Safari 5.1-6 */
@@ -239,7 +239,7 @@ html {
 }
 
 .sec-feature label {
-    border: 2px solid green;
+    border: 2px solid rgb(1, 47, 1);
     margin-top: 40px;
     margin-left: -50px;
     font-size: 18px;
@@ -382,7 +382,7 @@ p {
 
 /****** FAQS Section ******/
 #faq {
-    background: #ff6e7f;
+    background: #4f6be5;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #4682B4, #ff6e7f);
     /* Chrome 10-25, Safari 5.1-6 */
@@ -395,7 +395,7 @@ p {
 
 #faq h2 {
     text-align: center;
-    color: #000;
+    color: #923d3d;
     font-size: 50px;
     font-weight: bolder;
 }
@@ -406,7 +406,7 @@ p {
     margin: auto;
     padding: 20px 50px;
     margin-top: 110px;
-    background: #e91e63;
+    background: #ca245e;
     box-shadow: inset 5px 5px 10px #5d0c28, inset -5px -5px 10px #ff309e;
     border-radius: 30px;
     justify-content: space-between;
